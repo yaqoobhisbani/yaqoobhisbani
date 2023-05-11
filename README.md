@@ -1,6 +1,6 @@
 # Hey there 👋, I'm Muhammad Yaqoob - Full Stack Developer
 
-🏢 Working at AIME Group.<br>
+🏢 Working at AIME Global.<br>
 🎓 Studied BS Computer Science<br>
 🛠️ Developing mobile & web apps for more than 3 years.<br>
 🇵🇰 Lives in Pakistan<br>
