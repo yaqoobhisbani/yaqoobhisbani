@@ -1,5 +1,9 @@
-# Hey there 👋, I'm a Full Stack Developer
-🔭 I’m currently working on React Native<br>👯 I’m looking to collaborate on JavaScript based technologies. <br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+# Hey there 👋, I'm Muhammad Yaqoob - Full Stack Developer
+
+🏢 Working at AIME Group.
+🎓 Studied BS Computer Science
+🛠️ Developing mobile & web apps for more than 3 years.
+🇵🇰 Lives in Pakistan
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/yaqoobhisbani) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yaqoobhisbani) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@yaqoobhisbani) 
