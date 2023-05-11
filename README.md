@@ -1,4 +1,4 @@
-# 👋 I'm a Full Stack Developer
+# Hey there, 👋 I'm a Full Stack Developer
 🔭 I’m currently working on React Native<br>👯 I’m looking to collaborate on JavaScript based technologies. <br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
 
 
