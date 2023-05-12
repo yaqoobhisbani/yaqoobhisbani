@@ -1,4 +1,4 @@
-# Hey there 👋 , I'm Muhammad Yaqoob - Full Stack Developer
+# Hi 👋, I'm Muhammad Yaqoob - Full Stack Developer
 
 🏢 Working at AIME Global | ex. Vendian <br>
 🎓 Studied BS Computer Science<br>
